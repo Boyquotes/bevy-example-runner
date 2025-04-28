@@ -1,0 +1,25 @@
+Application/empty - 0.27798963
+ECS (Entity Component System)/send_and_receive_events - 0.28582713
+Time/time - 0.28591388
+Reflection/function_reflection - 0.77836627
+Application/headless - 0.27818066
+ECS (Entity Component System)/relationships - 0.32476828
+ECS (Entity Component System)/custom_query_param - 0.26330522
+Application/no_renderer - 0.6080588
+Reflection/dynamic_types - 0.2577925
+ECS (Entity Component System)/immutable_components - 0.29678887
+Application/headless_renderer - 1.1255963
+Shaders/extended_material_bindless - 0.67392254
+ECS (Entity Component System)/startup_system - 0.25771806
+Application/custom_loop - 0.25615317
+ECS (Entity Component System)/custom_schedule - 0.267612
+ECS (Entity Component System)/system_piping - 0.26277313
+Application/without_winit - 0.48968127
+Reflection/type_data - 0.34568083
+ECS (Entity Component System)/system_closure - 0.27218068
+ECS (Entity Component System)/system_stepping - 1.2296762
+Reflection/custom_attributes - 0.4096127
+ECS (Entity Component System)/system_param - 0.83765715
+ECS (Entity Component System)/observer_propagation - 0.26976234
+ECS (Entity Component System)/dynamic - 0.31029066
+ECS (Entity Component System)/ecs_guide - 25.503029
